@@ -1,0 +1,10 @@
+{
+  "name": "koa-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alan He <alan@1991421.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
+}
