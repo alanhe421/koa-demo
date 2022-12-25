@@ -23,4 +23,4 @@ app.use(ctx => {
 });
 
 const server = app.listen(3000);
-console.log('koa-demo listening at http://127.0.0.1:%s');
+console.log('koa-demo listening at http://127.0.0.1:3000');
