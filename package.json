@@ -5,6 +5,7 @@
   "author": "Alan He <alan@1991421.cn>",
   "license": "MIT",
   "dependencies": {
+    "http-proxy": "^1.18.1",
     "koa": "^2.13.1"
   }
 }
